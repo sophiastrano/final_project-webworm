@@ -6,3 +6,7 @@ Webworm Teaches You Web Safety will be an important tool to help people understa
 
 While creating this web application, static design will be produced with consideration to C.R.A.P. principles and accessible UI. Our planned primary CSS/HTML framework would be Bootstrap, based on experience from a3. Dynamic behavior in this application would be covered by the server-side validation of quiz responses, as well as the pop-up of the quiz itself. 
 
+Workflow: copy make an account and log-in from a3
+Once logged in: you can select the home page with reading and media about phishing
+there is a hyperlink to a page with an html form that submit answers to a quiz we present- four questions appear, enter responses, dynamically load the results to the user
+whheeeeee
